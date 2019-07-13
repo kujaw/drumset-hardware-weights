@@ -1,2 +1,4 @@
 # drumset-hardware-weights
-Weights of drumset hardware
+
+**Drum hardware weights.**  
+Based on https://www.drumforum.org/threads/hardware-weights-spreadsheet.95041/ & other contributions.
